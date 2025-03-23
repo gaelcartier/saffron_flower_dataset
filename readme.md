@@ -1,5 +1,8 @@
-# Saffron flower dataset
+# 🔎 Saffron flower dataset 🌷 📷
 Made and labelled for detection by Gaël Cartier-Michaud 
+  
+Completed with this dataset of purple flower photos:   
+https://www.kaggle.com/datasets/mbkinaci/purple-flower-photos?resource=download
 
 ## Classes used  
 - Flower  
