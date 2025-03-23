@@ -1,0 +1,13 @@
+train: /home/gael/hepia/bachelor_project/model/YOLOv8/dataset/train/images
+val: /home/gael/hepia/bachelor_project/model/YOLOv8/dataset/valid/images
+test: /home/gael/hepia/bachelor_project/model/YOLOv8/dataset/test/images
+
+nc: 2
+names: ['flower', 'overlap']
+
+roboflow:
+  workspace: saffron-flower-detection
+  project: saffron_detection
+  version: 5
+  license: Private
+  url: https://app.roboflow.com/saffron-flower-detection/saffron_detection/5
